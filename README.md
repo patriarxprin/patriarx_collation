@@ -1,2 +1,4 @@
-# patriax_collation
-Collation of the manuscripts studied during the PatriarX project.
+# PatriarX Collation
+This repository contains the collation of the manuscripts studied during the PatriarX project.
+
+
