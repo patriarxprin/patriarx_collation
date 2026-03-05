@@ -1,0 +1,7 @@
+# METADATA format: Dublin Core (dc:https://www.dublincore.org/specifications/dublin-core/dcmi-terms/elements11/)
+# dc:creator: Scattolin, Paolo
+# dc:date: 2025-08-08
+# dc:source: Leiden University Library, Manuscript VGQ 63 
+# dc:coverage: fol. 5r-12v
+# dc:relation: Diktyon ID 38170
+# dc:description: qualche nota generale
