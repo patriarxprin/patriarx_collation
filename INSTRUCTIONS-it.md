@@ -68,7 +68,9 @@ Per ogni lettera, si compilano i metadati richiesti:
 # dc:relation: Diktyon ID 38170 (la relazione con l’ID di Diktiyon) 
 # dc:description: qualche nota generale 
 ```
- 
+
+** Per il momento si è deciso di agire solo sul lemma non su l'interpretamentum, le cartelle Standardized e Recorrected
+contengono il lemma original seguito da duepunti e dalla sua correzione. **
 
 Nella cartella Originals si compie una trascrizione diplomatica, senza applicare correzioni. Si trascrive il testo greco compresi errori di accento e spirito, itacismo, etc.
 

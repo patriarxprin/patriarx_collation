@@ -1,0 +1,49 @@
+# METADATA format: Dublin Core (dc:https://www.dublincore.org/specifications/dublin-core/dcmi-terms/elements11/)
+# dc:creator: Benvenuto, Carmelo Nicolò
+# dc:date: 2026-01-23
+# dc:source: Oxford, Bodleian Library, Clarke 3 
+# dc:coverage: ff. 62r-62v
+# dc:relation: Diktyon ID 47758
+# dc:description: collazionato in originale; tit. Ἀρχὴ τοῦ ξ; fascette decorative in inizio di stoicheion; lettere incipitarie in rosso; nei margini indicazioni del tipo ξ μετὰ τοῦ... per alfabetizzazione
+
+ξαῖνω : ξαίνω
+ξανθήν : ξανθήν
+ξάνθησιν : ξανθοῖσιν 
+ξεῖνον : ξεῖνον
+ξεῖνοι : ξεῖνοι
+ξεναγῶν : ξεναγῶν
+ξεναγῆσαι : ξεναγῆσαι
+ξεναλόγος : ξεναλόγος
+ξενίαν : ξενίαν
+ξενίζει : ξενίζει
+ξενίζεται : ξενίζεται
+ξενίζουσαν : ξενίζουσαν
+ξεστόν : ξεστόν
+ξιφήρεις : ξιφήρεις
+ξόανον : ξόανον
+ξοῦθος : ξοῦθος
+ξύει : ξύει
+ξυλιζομένη : ξυλιζομένη
+ξυμβαίει : ξυμβαίνει
+ξύμμαχοι : ξύμμαχοι
+ξϋνωρίδα : ξυνωρίδα
+ξυνιέναι : ξυνιέναι
+ξυνουσία : ξυνουσία
+ξυνεχῶς : ξυνεχῶς
+ξυναρμώσας : ξυναρμώσας
+ξυνωρίς : ξυνωρίς
+ξυνῶν : ξυνῶν
+ξυνάορον : ξυνάορον
+ξύνες : ξύνες
+ξυμπονῆσαι : ξυμπονῆσαι
+ξυνία : ξυνία
+ξυνθήματος : ξυνθήματος
+ξϋνθακις : ξυνθακίς
+ξυστόν : ξυστόν
+ξυνθόκος : ξυνθόκος
+ξυστίδα : ξυστίδα
+ξυστίδα : ξυστίδα
+ξυστός : ξυστός
+ξυσμός : ξυσμός
+ξώθεν : ξῶθεν
+ 

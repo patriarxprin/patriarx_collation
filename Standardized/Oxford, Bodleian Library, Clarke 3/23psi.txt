@@ -1,0 +1,47 @@
+# METADATA format: Dublin Core (dc:https://www.dublincore.org/specifications/dublin-core/dcmi-terms/elements11/)
+# dc:creator: Benvenuto, Carmelo Nicolò
+# dc:date: 2026-01-23
+# dc:source: Oxford, Bodleian Library, Clarke 3 
+# dc:coverage: ff. 90r-90v
+# dc:relation: Diktyon ID 47758
+# dc:description: collazionato in originale; tit. Ἀρχὴ τοῦ ψ; fascette decorative in inizio di stoicheion; lettere incipitarie in rosso; nel margine sinistro del foglio indicazioni del tipo ψ μετά τοῦ... per indicare alfabetizzazione
+
+ψακάς : ψακάς
+ψάλιον : ψάλιος
+ψάλτιγξ : ψάλτιγξ
+ψαῦσαι : ψαῦσαι
+ψαρός : ψαρός
+ψαφαρὸν : ψαφαρός
+ψαίκαλον : ψαίκαλος
+ψέγει : ψέγειν
+ψεδνὸν : ψεδνός
+ψεδνή : ψεδνός
+ψευτά : ψευτής
+ψευδοποιεῖ : ψευδοποιεῖν
+ψεῦδος : ψεῦδος
+ψευδομυθεῖ : ψευδομυθεῖν
+ψήγματα : ψῆγμα
+ψῆφος : ψῆφος
+ψηφίδες : ψηφίς
+ψηφοφορία : ψηφοφορία
+ψήχειν : ψήχειν
+ψιάδας : ψιάς
+ψιλόν : ψιλός
+ψογερούς : ψογερός
+ψόφος : ψόφος
+ψοφοδεής : ψοφοδεής
+ψυκτήρ : ψυκτήρ
+ψύλλα : ψύλλος
+ψύχουσι : ψύχειν
+ψύττα : ψύττης
+ψυχρολογία : ψυχρολογία
+ψυχολκοῦμαι : ψυχολκεῖσθαι
+ψυχαγωγεῖ : ψυχαγωγεῖν
+ψυχρός : ψυχρός
+ψυχικός : ψυχικός
+ψυχρολόγος : ψυχρολόγος
+ψωκτόν : ψωκτός
+ψωμιεῖσε : ψωμιεῖν
+ψωχόντες : ψώχειν
+ψωχόντες : ψώχειν
+

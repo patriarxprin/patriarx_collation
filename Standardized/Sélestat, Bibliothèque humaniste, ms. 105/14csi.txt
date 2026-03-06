@@ -1,0 +1,55 @@
+# METADATA format: Dublin Core (dc:https://www.dublincore.org/specifications/dublin-core/dcmi-terms/elements11/)
+# dc:creator: Benvenuto, Carmelo Nicolò
+# dc:date: 2026-01-23
+# dc:source: Sélestat, Bibliothèque humaniste, ms. 105
+# dc:coverage: ff. 52-52v
+# dc:relation: Diktyon ID 58091
+# dc:description: collazionato in originale e in riproduzioni digitali; tit. Ἀρχὴ τοῦ ξ στοιχείου; prima lettera del primo lemma decorata con motivi antropomorfi; testo su due colonne, ma lemma e interpretamentum disposti nella medesima colonna di scrittura
+
+
+ξαίνω : ξαίνειν
+ξανθήν : ξανθός
+ξανθίζεσθαι : ξανθίζεσθαι
+ξενοσύνην : ξενοσύνη
+ξεινοὶ : ξεῖνος
+ξεναγῶν : ξεναγεῖν
+ξείνον : ξεῖνος
+ξενίαν : ξενία
+ξενίζουσαν : ξενίζειν
+ξεστὸν : ξεστός
+ξιφήρεις : ξιφήρης
+ξόανον : ξόανον
+ξοῦθος : ξοῦθος
+ξουθᾶ : ξοῦθος
+ξύει : ξύειν
+ξυλιζομένη : ξυλίζειν
+ξύμμαχοι : ξύμμαχος
+ξυνωρὶς : ξυνωρίς
+ξυμβαίνει : ξυμβαίνειν
+ξυνωρίδα : ξυνωρίς
+ξυνθήματος : ξύνθημα
+ξύνιον : ξύνιος
+ξύτρα : ξύτρα
+ξυνιέναι : ξυνιέναι
+ξυνουσία : ξυνουσία
+ξυνεχῶς : ξυνεχής
+ξυναρμῶσας : ξυναρμόσαι
+ξυνωρίδα : ξυνωρίς
+ξυμφορᾶ : ξυμφορά
+ξυνσχοῖτο : ξυνέχεσθαι
+ξυνῶν : ξυνών
+ξυστίδας : ξυστίς
+ξυνούσιον : ξυνούσιος
+ξυνάορον : ξυνάορος
+ξυμπονῆσαι : ξυμπονῆσαι
+ξύνια : ξύνιον
+ξύνες : ξύνιος
+ξυνθήματος : ξύνθημα
+ξύνωδα : ξύνωδος
+ξύνθακος : ξύνθακος
+ξυνοδόκος : ξυνοδόκος
+ξυστίδα : ξυστίς
+ξυσμός : ξυσμός
+ξυστός : ξυστός
+ξῶθεν : ξῶθεν
+

@@ -1,0 +1,60 @@
+# METADATA format: Dublin Core (dc:https://www.dublincore.org/specifications/dublin-core/dcmi-terms/elements11/)
+# dc:creator: Benvenuto, Carmelo Nicolò
+# dc:date: 2026-01-23
+# dc:source: Oxford, Bodleian Library, Holkham gr. 112
+# dc:coverage: ff. 116-116v
+# dc:relation: Diktyon ID 48180
+# dc:description: collazionato in originale e in riproduzioni digitali; tit. Ἀρχὴ τοῦ ψ στοιχείου; lettere incipitarie di ogni lemma in inchiostro rosso; disposizione del testo su due colonne ma lemma e interpretamentum sono disposti sulla stessa colonna 
+
+ψακάς : ψακάς
+ψάλιον : ψάλιος
+ψάλτιξ : ψάλτιξ
+ψάλλειν : ψάλλειν
+ψαρός : ψαρός
+ψαῦσαι : ψαῦσαι
+ψαφαρόν : ψάφαρος
+ψέγει : ψέγειν
+ψεδνός : ψεδνός
+ψεδνή : ψεδνός
+ψεκάδων : ψεκάς
+ψεστά : ψεστός
+ψελλός : ψελλός
+ψευδηγόρους : ψευδηγόρος
+ψευδοεπεῖ : ψευδοεπεῖν
+ψευδάγγελος : ψευδάγγελος
+ψευσάμενοι : ψεύσασθαι
+ψευδή : ψευδής
+ψεύδος : ψεύδος
+ψευδομυθεῖ : ψευδομυθεῖν
+ψήγματα : ψῆγμα
+ψῆφος : ψῆφος
+ψηφησαμένων : ψηφίσαι
+ψηφίδες : ψηφίς
+ψηφοφορία : ψηφοφορία
+ψίχειν : ψίχειν
+ψιάδες : ψιάς
+ψιλόν : ψιλός
+ψόγος : ψόγος
+ψογερούς : ψογερός
+ψογοδελής : ψογοδελής
+ψόφος : ψόφος
+ψυκτήρ : ψυκτήρ
+ψύλλα : ψύλλα
+ψύξις : ψύξις
+ψύξας : ψύξαι
+ψυλλοί : ψυλλός
+ψεύξουσιν : ψεύξειν
+ψυχρολογία : ψυχρολογία
+ψυχολκοῦμαι : ψυχολκεῖν
+ψυχαγωγή : ψυχαγωγή
+ψυχρός : ψυχρός
+ψυχικός : ψυχικός
+ψυχρολόγος : ψυχρολόγος
+ψωμός : ψωμός
+ψωμεῖσαι : ψωμεῖσθαι
+ψώχοντες : ψώχειν
+ψώγος : ψώγος
+ψωγήσα : ψωγῆσαι
+ψωγερούς : ψωγερός
+
+

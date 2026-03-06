@@ -1,0 +1,53 @@
+# METADATA format: Dublin Core (dc:https://www.dublincore.org/specifications/dublin-core/dcmi-terms/elements11/)
+# dc:creator: Benvenuto, Carmelo Nicolò
+# dc:date: 2026-01-23
+# dc:source: Oxford, Bodleian Library, Holkham gr. 112
+# dc:coverage: ff. 73v-74
+# dc:relation: Diktyon ID 48180
+# dc:description: collazionato in originale e in riproduzioni digitali; tit. Ἀρχὴ τοῦ ξ στοιχείου; lettere incipitarie di ogni lemma in inchiostro rosso; disposizione del testo su due colonne ma lemma e interpretamentum sono disposti sulla stessa colonna 
+
+ξαίνω : ξαίνειν
+ξανθήν : ξανθός
+ξανθίζεσθαι : ξανθίζεσθαι
+ξενοσμύην : ξενοσύνη
+ξένοι : ξένος
+ξεναγῶν : ξεναγεῖν
+ξείνων : ξεῖνος
+ξέσας : ξέσαι
+ξενίαν : ξενία
+ξενίζουσαν : ξενίζειν
+ξέοντας : ξέειν
+ξεστόν : ξεστός
+ξιφήρεις : ξιφήρης
+ξόανον : ξόανον
+ξουθός : ξουθός
+ξουθᾶ : ξουθός
+ξύει : ξύειν
+ξυλιζομένη : ξυλίζειν
+ξυμμαχοί : ξυμμαχός
+ξυνορίς : ξυνωρίς
+ξυμβαίνει : ξυμβαίνειν
+ξυνθήματος : ξύνθημα
+ξύνειον : ξύνειον
+ξυνεχῶς : συνεχής
+ξύστρα : ξύστρα
+ξυνιέναι : ξυνιέναι
+ξυνουσία : ξυνουσία
+ξυνεχῶς : συνεχής
+ξυναρμώσας : ξυναρμόσαι
+ξυνωρίδα : ξυνωρίς
+ξύνορον : ξύνορος
+ξυνῶν : ξύνων
+ξυστίδας : ξυστίς
+ξυνάθρον : ξυνάθρος
+ξυμπονῆσαι : ξυμπονῆσαι
+ξύνια : ξύνιον
+ξύνες : ξυνιέναι
+ξυνθήματος : ξύνθημα
+ξύνωδα : ξύνωδος
+ξύνθακος : ξύνθακος
+ξυνοδοκός : ξυνοδοκός
+ξύστρα : ξύστρα
+ξυσμός : ξυσμός
+ξυστός : ξυστός
+ξώθεν : ἔξωθεν
