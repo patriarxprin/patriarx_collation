@@ -1,0 +1,84 @@
+# METADATA format: Dublin Core (dc:https://www.dublincore.org/specifications/dublin-core/dcmi-terms/elements11/)
+# dc:creator: Benvenuto, Carmelo Nicolò
+# dc:date: 2026-01-23
+# dc:source: Paris, Bibliothèque Nationale de France, grec 2666
+# dc:coverage: ff. 106v-107
+# dc:relation: Diktyon ID 52302
+# dc:description: collazionato in riproduzioni digitali; in principio di stoicheion il codice non mostra elementi ornamentali, né titoli veri e propri; in margine viene di volta in volta annotata, all'altezza del rispettivo lemma, la lettera ψ seguita dalla seconda lettera per agevolare consultazione del lessico seguendo alfabetizzazione; lemma e interpetamentum disposti di seguito in un'unica colonna di scrittura
+
+
+ψαθλάων : ψαθλάων
+ψαθϋρών : ψαθυρῶν
+ψαβαρῶν : ψαβαρῶν
+ψάζει : ψάζει
+ψάκαλων : ψακάλων
+ψαιστά : ψαιστά
+ψακὰς : ψακάς
+ψακάζει : ψακάζει
+ψακαλών : ψακαλῶν
+ψαλάσσων : ψαλάσσων
+ψαλΐοις : ψαλίοις
+ψαλίς : ψαλίς
+ψάλϊον : ψάλιον
+ψάλτιγξ : ψάλτιγξ
+ψαμαθός : ψαμαθός
+ψατάλλην : ψατάλλην
+ψαύει : ψαύει
+ψαφαρών : ψαφαρῶν
+ψεδρός : ψεδρός
+ψελλός : ψελλός
+ψελλίζει : ψελλίζει
+ψευδάμαξας : ψευδάμαξας
+ψεφαρὼν : ψεφαρῶν
+ψήγματα : ψήγματα
+ψηδ… : ψηδ…
+ψηκέδων : ψηκέδων
+ψηκτῆρα : ψηκτῆρα
+ψήνας : ψήνας
+ψηνύξαι : ψηνύξαι
+ψήρας : ψήρας
+ψήρων : ψήρων
+ψήφην : ψήφην
+ψῆφος : ψῆφος
+ψήχομάν : ψήχομαν
+ψηχρὰν : ψηχράν
+ψία : ψία
+ψιάδες : ψιάδες
+ψι.εντα : ψιέντα
+ψιζομένη : ψιζομένη
+ψιλοκορής : ψιλοκορής
+ψιλοκόμη : ψιλοκόμη
+ψιμαρῶν : ψιμαρῶν
+ψινάδες : ψινάδες
+ψινάζει : ψινάζει
+ψινύθϊον : ψινύθιον
+ψίσαι : ψίσαι
+ψιτταί : ψιτταί
+ψιττά : ψιττά
+ψόθος : ψόθος
+ψοίβης : ψοίβης
+ψοῖθος : ψοῖθος
+ψολθέν : ψολθέν
+ψολόεντα : ψολόεντα
+ψολολκοπία : ψολολκοπία
+ψολός : ψολός
+ψούδια : ψούδια
+ψολοκοπία : ψολοκοπία
+ψολός : ψολός
+ψούδια : ψούδια
+ψυδρός : ψυδρός
+ψύξας : ψύξας
+ψύττα : ψύττα
+ψυχικός : ψυχικός
+ψυχολόηος : ψυχολόγος
+ψωγόσ : ψωγός
+ψώζα : ψώζα
+ψῶκτῶν : ψωκτῶν
+ψομόλεθρος : ψομόλεθρος
+ψῶς : ψῶς
+ψῶσαι : ψῶσαι
+ψώψοντες : ψώψοντες
+ψώψωντες : ψώψωντες
+ψωψιέσε : ψωμιεῖ σε
+ψαπηζή : ψαπηζή
+

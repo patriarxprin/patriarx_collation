@@ -1,0 +1,25 @@
+# METADATA format: Dublin Core (dc:https://www.dublincore.org/specifications/dublin-core/dcmi-terms/elements11/)
+# dc:creator: Benvenuto, Carmelo Nicolò
+# dc:date: 2026-01-23
+# dc:source: Athos, Μονή Μεγίστης Λάυρας Η18 (Eustratiades 0673)
+# dc:coverage: ff. 34
+# dc:relation: Diktyon ID 27690
+# dc:description: collazionato  in riproduzioni digitali; crocette decorative in inizio di ciascuno stoicheion, tit. Τέλος τοῦ ν, Ἀρχὴ τοῦ ξ; lemma e interpretazione di seguito su un'unica colonna di scrittura
+
+ψαύω : ψαύω
+ψάμαθοι : ψάμαθοι
+ψῆφος : ψῆφος
+ψεκάς : ψεκάς
+ψιλός : ψιλός
+ψιθυρίζει : ψιθυρίζει
+ψυχαγωγία : ψυχαγωγία
+ψυχικός : ψυχικός
+ψώχοντες : ψώχοντες
+ψάλλειν : ψάλλειν
+ψεκάδος : ψεκάδος
+ψεδνὸς ἐπανήνοθεν : ψεδνὸς ἐπανήνοθεν
+ψελλός : ψελλός
+ψευδάγγελος : ψευδάγγελος
+ψευδῆ : ψευδῆ
+ψευσάμενοι : ψευσάμενοι
+ψηφισαμένων : ψηφισαμένων

@@ -1,0 +1,52 @@
+# METADATA format: Dublin Core (dc:https://www.dublincore.org/specifications/dublin-core/dcmi-terms/elements11/)
+# dc:creator: Benvenuto, Carmelo Nicolò
+# dc:date: 2025-08-08
+# dc:source: Madrid BU Complut. 116-z°-22 (30)
+# dc:coverage: ff. 111v-112v
+# dc:relation: Diktyon 30646 
+# dc:description: collazionato in riproduzioni digitali; titolo assente ma lettera capita del primo lemma, del tipo ξ; lemmi e interpretazioni disposti su due distinte colonne di scrittura; non si registrano particolari elementi decorativi 
+
+ξαίνω : ξαίνω
+ξανθήν : ξανθήν
+ξανθίζεσθαι : ξανθίζεσθαι
+ξεῖνοι : ξεῖνοι
+ξεῖνον : ξεῖνον
+ξεναγῶν : ξεναγῶν
+ξενίαν : ξενίαν
+ξενίζουσαν : ξενίζουσαν
+ξεστόν : ξεστόν
+ξέσας : ξέσας
+ξηφηρεῖς : ξιφηρεῖς
+ξόανον : ξόανον
+ξοῦθος : ξοῦθος
+ξοῦθα : ξοῦθα
+ξύει : ξύει
+ξυλεζομένη : ξυλιζομένη
+ξυμβαίη : ξυμβαίη
+ξυμβαίνει : ξυμβαίνει
+ξύμμαχοι : ξύμμαχοι
+ξυνωρίδα : ξυνωρίδα
+ξύνιον : ξύνιον
+ξυνιέναι : ξυνιέναι
+ξυνουσία : ξυνουσία
+ξυστίδας : ξυστίδας
+ξυνεχῶς : ξυνεχῶς
+ξυναρμώσας : ξυναρμώσας
+ξύτρα : ξύτρα
+ξυνωρίς : ξυνωρίς
+ξυνών : ξυνών
+ξυναχοῖτο : ξυναχοῖτο
+ξυνάορον : ξυνάορον
+ξυμπονῆσαι : ξυμπονῆσαι
+ξυμφορά : ξυμφορά
+ξυνήϊα : ξυνήϊα
+ξύνες : ξύνες
+ξυνθήματος : ξυνθήματος
+ξυνωδά : ξυνωδά
+ξύνθακος : ξύνθακος
+ξυνοδόκος : ξυνοδόκος
+ξυστόν : ξυστόν
+ξυστίδα : ξυστίδα
+ξυστός : ξυστός
+ξυσμός : ξυσμός
+ξώθεν : ξώθεν

@@ -1,0 +1,53 @@
+# METADATA format: Dublin Core (dc:https://www.dublincore.org/specifications/dublin-core/dcmi-terms/elements11/)
+# dc:creator: Benvenuto, Carmelo Nicolò
+# dc:date: 2026-01-23
+# dc:source: Paris, Bibliothèque Nationale de France, Supplément grec 659
+# dc:coverage: ff. 67v-68
+# dc:relation: Diktyon ID 53394
+# dc:description: collazionato in riproduzioni digitali; tit. in rosso del tipo ἀρχὴ τοῦ ξ στοιχείου; lemma e interpetamentum disposti di seguito in un'unica colonna di scrittura, con il lemma rubricato in rosso, e l'interpretazione in inchiostro nero
+
+ξαίνω : ξαίνω
+ξανθὴν : ξανθήν
+ξανθήζεσθαι : ξανθίζεσθαι
+ξενοσῦνην : ξενοσύνην
+ξεινοὶ : ξεῖνοι
+ξεναγῶν : ξεναγῶν
+ξεῖνον : ξεῖνον
+ξενίαν : ξενίαν
+ξενίζουσαν : ξενίζουσαν
+ξεόντας : ξέοντας
+ξεστὸν : ξεστόν
+ξϊφήροι : ξιφήροι
+ξόανον : ξόανον
+ξούθος : ξούθος
+ξυσθά : ξουθά
+ξΰει : ξύει
+ξϋλιζομένη : ξυλιζομένη
+ξϋμμαχεῖ : ξυμμαχεῖ
+ξϋνωρίς : ξυνωρίς
+ξυμβαίνει : ξυμβαίνει
+ξϋνθήματος : ξυνθήματος
+ξΰνειον : ξύνειον
+ξύστρα : ξύστρα
+ξϋνιέναι : ξυνιέναι
+ξϋνουσία : ξυνουσία
+ξυνεχῶς : ξυνεχῶς
+ξυναρμώσας : ξυναρμώσας
+ξϋνωρΐδα : ξυνωρίδα
+ξϋνωρίδα : ξυνωρίδα
+ξϋστίδας : ξυστίδας
+ξϋνάορον : ξυνάορον
+ξυμπονήσαι : ξυμπονήσαι
+ξύνια : ξύνια
+ξΰνες : ξύνες
+ξϋνθήματος : ξυνθήματος
+ξϋνωδά : ξυνωδά
+ξϋνοδόκος : ξυνοδόκος
+ξυστίδα : ξυστίδα
+ξϋστός : ξυστός
+ξϋσμός : ξυσμός
+ξῶθεν : ξῶθεν
+
+ 
+
+

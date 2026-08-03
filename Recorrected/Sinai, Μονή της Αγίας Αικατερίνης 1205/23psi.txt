@@ -1,0 +1,46 @@
+# METADATA format: Dublin Core (dc:https://www.dublincore.org/specifications/dublin-core/dcmi-terms/elements11/)
+# dc:creator: Benvenuto, Carmelo Nicolò
+# dc:date: 2026-01-23
+# dc:source: Sinai, Μονή της Αγίας Αικατερίνης, 1205	
+# dc:coverage: ff. 300v-301r
+# dc:relation: Diktyon ID 59580
+# dc:description: collazionato in riproduzioni digitali; tit. Ἀρχὴ τοῦ ξ στοιχείου; non si rintracciano notevoli elementi decorativi; il titolo dello stoicheion e la lettera iniziale di ogni lemma sono vergati in rosso; testo su due colonne, ma lemma e interpretamentum disposti nella medesima colonna di scrittura
+
+
+ψεκάδας : ψεκάδας
+ψεκάς : ψεκάς
+ψάλιον : ψάλιον
+ψάλτηξ : ψάλτιξ
+ψάλλειν : ψάλλειν
+ψαρός : ψαρός
+ψαῦσαι : ψαῦσαι
+ψεκάδων : ψεκάδων
+ψελλός : ψελλός
+ψευδηγόρους : ψευδηγόρους
+ψευδοεπεῖ : ψευδοεπεῖ
+ψευδάγγελος : ψευδάγγελος
+ψευσάμενοι : ψευσάμενοι
+ψευδῆ : ψευδῆ
+ψεῦδος : ψεῦδος
+ψευδομυθεῖ : ψευδομυθεῖ
+ψήγματα : ψήγματα
+ψῆφος : ψῆφος
+ψηφισαμένων : ψηφισαμένων
+ψηφίδες : ψηφίδες
+ψηφορία : ψηφορία
+ψιᾶδες : ψιάδες
+ψιλὸν : ψιλόν
+ψόγος : ψόγος
+ψόφος : ψόφος
+ψύξις : ψύξις
+ψύξουσι : ψύξουσι
+ψυχρολογία : ψυχρολογία
+ψυχρός : ψυχρός
+ψυχικός : ψυχικός
+ψυχρολόγος : ψυχρολόγος
+ψωμός : ψωμός
+ψωμιεῖ σε : ψωμιεῖ σε
+ψώχοντες : ψώχοντες
+ψωγῆσαι : ψωγῆσαι
+ψωγερούς : ψωγερούς
+ψώγος : ψώγος

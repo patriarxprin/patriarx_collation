@@ -1,0 +1,79 @@
+# METADATA format: Dublin Core (dc:https://www.dublincore.org/specifications/dublin-core/dcmi-terms/elements11/)
+# dc:creator: Benvenuto, Carmelo Nicolò
+# dc:date: 2026-01-23
+# dc:source: Paris, Bibliothèque Nationale de France, grec 2666
+# dc:coverage: ff. 77v-78v
+# dc:relation: Diktyon ID 52302
+# dc:description: collazionato in riproduzioni digitali; in principio di stoicheion il codice non mostra elementi ornamentali, né titoli veri e propri; in margine viene di volta in volta annotata, all'altezza del rispettivo lemma, la lettera ξ seguita dalla seconda lettera per agevolare consultazione del lessico seguendo alfabetizzazione; lemma e interpetamentum disposti di seguito in un'unica colonna di scrittura
+
+ξαίνω : ξαίνω
+ξάνθειον : ξάνθειον
+ξάνιον : ξάνιον
+ξανήσει : ξανήσει
+ξάνω : ξάνω
+ξέμφορά : ξέμφορα
+ξεῖνοι : ξεῖνοι
+ξείνιος : ξεῖνιος
+ξεῖνος : ξεῖνος
+ξεναγός : ξεναγός
+ξένϊσα : ξένισα
+ξενηλατὴν : ξενηλατήν
+ξενίαν : ξενίαν
+ξεξένως : ξεξένως
+ξενολόγος : ξενολόγος
+ξενῶν : ξενών
+ξένϊος : ξένιος
+ξενοσΰνη : ξενοσύνη
+ξεναλόγος : ξεναλόγος
+ξέστης : ξέστης
+ξεστάς : ξεστάς
+ξηραλοιφίας καὶ ξηρακοκήειν : ξηραλοιφίας καὶ ξηρακοκήειν
+ξηρός : ξηρός
+ξηρός : ξηρός
+ξής : ξής
+ξιφήρης : ξιφήρης
+ξινήιον : ξινήϊον
+ξουθῶν : ξουθῶν
+ξύειν : ξύειν
+ξυέναι : ξυέναι
+ξυλόχος : ξυλόχος
+ξυλειζομένη : ξυλιζομένη
+ξΰλων ἐρεψΐμων : ξύλων ἐρεψίμων
+ξυλΐφιον : ξυλίφιον
+ξυλοπέδη : ξυλοπέδη
+ξυμαβαίνει : ξυμβαίνει
+ξυμβαίη : ξυμβαίη
+ξυμμαχοι : ξύμμαχοι
+ξυνάορον : ξυνάορον
+ξυναίρεται : ξυναίρεται
+ξύνιον : ξύνιον
+ξυνιόντες : ξυνιόντες
+ξυνηΐα : ξυνηΐα
+ξυνών : ξυνών
+ξυνοθόκος : ξυνοθόκος
+ξυνέρεται : ξυνέρεται
+ξύνευτος : ξύνευτος
+ξυνωρίς : ξυνωρίς
+ξυνωμοσΐα : ξυνωμοσία
+ξυνίασϊ : ξυνίασι
+ξυνέοικε : ξυνέοικε
+ξυνήσην : ξυνήσην
+ξυνήιον : ξυνήϊον
+ξυνιέναι : ξυνιέναι
+ξύνωρῶν : ξυνωρῶν
+ξυνών : ξυνών
+ξυνθήματος : ξυνθήματος
+ξύνθακες : ξύνθακες
+ξύφορβος : ξύφορβος
+ξυροῦ ἀκμῆς : ξυροῦ ἀκμῆς
+ξυστίδα : ξυστίδα
+ξύστις : ξύστις
+ξΰστων : ξύστων
+ξυστών : ξυστών
+ξυστῷ : ξυστῷ
+ξύσματα : ξύσματα
+ξύσαντι : ξύσαντι
+
+ 
+
+

@@ -1,0 +1,61 @@
+# METADATA format: Dublin Core (dc:https://www.dublincore.org/specifications/dublin-core/dcmi-terms/elements11/)
+# dc:creator: Benvenuto, Carmelo Nicolò
+# dc:date: 2026-01-23
+# dc:source: Paris, Bibliothèque nationale de France, Grec 2632
+# dc:coverage: ff. 135-136
+# dc:relation: Diktyon ID 52267
+# dc:description: collazionato in riproduzioni digitali; decorazioni iniziali in stile fiorito; tit. del tipo Ἀρχὴ τοῦ  τετρακαιδεκάτου στοιχείου, ἤτοι τοῦ ξύ; indicazioni del tipo τὸ ξὺ μετὰ τοῦ ἄλφα; fascette decorative precedono la rubrica in inizio di stoicheion; disposizione del testo su due colonne con lemma e interpretamentum disposti su colonne affiancate 
+
+ξαίνω : ξαίνω
+ξανθηνὸν : ξανθηνόν
+ξανθοῖσι : ξανθοῖσι
+ξανθίζεται : ξανθίζεται
+ξεῖνοι : ξεῖνοι
+ξῆνον : ξένον
+ξεναγῶν : ξεναγῶν
+ξεναγῆσαι : ξεναγῆσαι
+ξενάλογος : ξενάλογος
+ξενίαν : ξενίαν
+ξενίζει : ξενίζει
+ξενίζεται : ξενίζεται
+ξενιάζουσιν : ξενιάζουσιν
+ξέστον : ξέστον
+ξεστοῖς : ξεστοῖς
+ξιφήρης : ξιφήρης
+ξιφηροῦ : ξιφηροῦ
+ξόανον : ξόανον
+ξύει : ξύει
+ξυλιζομέμη : ξυλιζομένη
+ξὺμβαίει : ξυμβαίνει
+ξύμμα : ξύμμα
+ξυνωρίδα : ξυνωρίδα
+ξενιέναι : ξενίζειν
+ξυνουσία : ξυνουσία
+ξυνεχῶς : ξυνεχῶς
+ξυναρμώσας : ξυναρμώσας
+ξουθὸς : ξουθός
+ξουθᾶ : ξουθᾶ
+ξυνορὶς : ξυνορίς
+ξυμμὲν : ξυμμὲν
+ξυνῶν : ξυνῶν
+ξυνάωρον : ξυνάωρον
+ξϋμπονῆσαι : ξυμπονῆσαι
+ξυνήϊα : ξυνήϊα
+ξύνες : ξύνες
+ξυνθήματος : ξυνθήματος
+ξυνοδὰ : ξυνοδά
+ξύνθακος : ξύνθακος
+ξυνοθόκος : ξυνοθόκος
+ξυστὸν : ξυστόν
+ξυστίδα : ξυστίδα
+ξυστίδας : ξυστίδας
+ξυσμὸς : ξυσμός
+ξύστρα : ξύστρα
+ξώθεν : ξώθεν
+
+ξηρὰν λοίφην : ξηρὰν λοίφην
+ξενωσύνην : ξενωσύνην
+ξυνήϊον : ξυνήϊον
+ξυνωρὸν : ξυνωρόν
+ξυναίρεται : ξυναίρεται
+ξυστάρχων : ξυστάρχων

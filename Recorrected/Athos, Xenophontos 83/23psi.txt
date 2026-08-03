@@ -1,0 +1,9 @@
+# METADATA format: Dublin Core (dc:https://www.dublincore.org/specifications/dublin-core/dcmi-terms/elements11/)
+# dc:creator: Benvenuto, Carmelo Nicolò
+# dc:date: 2026-01-23
+# dc:source: Athos, Μονή Ξενοφώντος Mss. 083 (Lambros 785)
+# dc:coverage: ff. 
+# dc:relation: Diktyon ID 30372
+# dc:description: collazionato  in riproduzioni digitali;
+
+#non è stato possibile collazionare stoicheion psi, perché il codice è mutilo, termina con stoicheion chi

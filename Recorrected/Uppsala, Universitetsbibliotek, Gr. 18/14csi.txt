@@ -1,0 +1,35 @@
+# METADATA format: Dublin Core (dc:https://www.dublincore.org/specifications/dublin-core/dcmi-terms/elements11/)
+# dc:creator: Benvenuto, Carmelo Nicolò
+# dc:date: 2025-08-08
+# dc:source: Uppsala, Universitetsbibliotek, Gr. 18
+# dc:coverage: ff. ***
+# dc:relation: Diktyon 64431 
+# dc:description: collazionato in riproduzioni digitali; 
+
+ξαίνω : ξαίνω
+ξανθή : ξανθή
+ξανθίζεσθαι : ξανθίζεσθαι
+ξεινοί : ξεῖνοι
+ξεναγός : ξεναγός
+ξεναγῶν : ξεναγῶν
+ξενίαν : ξενίαν
+ξενίζειν : ξενίζειν
+ξένιος : ξένιος
+ξεστόν : ξεστόν
+ξιφήρης : ξιφήρης
+ξιφηφόρους : ξιφηφόρους
+ξόανον : ξόανον
+ξοῦθος : ξοῦθος
+ξύλωχον : ξύλωχον
+ξυνέρεται : ξυνέρεται
+ξυνάορον : ξυνάορον
+ξυνοθόκος : ξυνοθόκος
+ξυνήια : ξυνήια
+ξυνωρίς : ξυνωρίς
+ξυρίδες : ξυρίδες
+ξυροῦ ἀκμῆς : ξυροῦ ἀκμῆς
+ξυσταρχεῖς : ξυσταρχεῖς
+ξυστίδα : ξυστίδα
+ξυστίς : ξυστίς
+ξυστόν : ξυστόν
+ξυστός : ξυστός
