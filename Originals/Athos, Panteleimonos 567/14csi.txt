@@ -1,0 +1,8 @@
+# METADATA format: Dublin Core (dc:https://www.dublincore.org/specifications/dublin-core/dcmi-terms/elements11/)
+# dc:creator: Benvenuto, Carmelo Nicolò
+# dc:date: 2026-01-23
+# dc:source: Athos, Μονή Αγίου Παντελεήμονος Mss. 0567 (Lambros 6074)
+# dc:coverage: ff. 
+# dc:relation: Diktyon ID 22706
+# dc:description: collazionato  in riproduzioni digitali;
+

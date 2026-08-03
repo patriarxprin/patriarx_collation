@@ -1,0 +1,50 @@
+# METADATA format: Dublin Core (dc:https://www.dublincore.org/specifications/dublin-core/dcmi-terms/elements11/)
+# dc:creator: Benvenuto, Carmelo Nicolò
+# dc:date: 2026-01-23
+# dc:source: Sinai, Μονή της Αγίας Αικατερίνης, 1205	
+# dc:coverage: ff. 300v-301r
+# dc:relation: Diktyon ID 59580
+# dc:description: collazionato in riproduzioni digitali; tit. Ἀρχὴ τοῦ ξ στοιχείου; non si rintracciano notevoli elementi decorativi; il titolo dello stoicheion e la lettera iniziale di ogni lemma sono vergati in rosso; testo su due colonne, ma lemma e interpretamentum disposti nella medesima colonna di scrittura
+
+
+ψεκάδας : πηγὰς, σταγώνας 
+ψεκάς : ψεκάδας, ῥανίς 
+ψάλιον : χαλινός 
+ψάλτηξ : κιθαρα 
+ψάλλειν : ἄιδειν, ἄσμα 
+ψαρός : ποικῖλος
+ψαῦσαι : προσεγγίσαι 
+ψεκάδων : ῥανίδων 
+ψελλός : ἄναρθρος τραυλός  
+ψευδηγόρους : ψευδολόγους 
+ψευδοεπεῖ : ψευδολογεῖ 
+ψευδάγγελος : ψευδῆ ἀγγέλων 
+ψευσάμενοι : παραβάντες ἐπιορκίσαντες
+ψευδῆ : ἀλλόκοτα 
+ψεῦδος : ἀπάτη 
+ψευδομυθεῖ : ψευδολογεῖ 
+ψήγματα : μικρὰ κομάτια 
+ψῆφος : κρίσις, ἀπόφασις 
+ψηφισαμένων : κρινάντων ἐπικρινάντων
+ψηφίδες : μικροὶ λίθοι 
+ψηφορία : ἡ πολλῶν ψῆφος καὶ ἀποδοχή 
+ψιᾶδες : ψεκάδες, ῥανίδες 
+ψιλὸν : κοῦφον, ἐσταλμένον, γυμνὸν, μηδὲν ἔχον
+ψόγος : ἡ κατηγορία 
+ψόφος : κτύπος
+ψύξις : κρυότης 
+ψύξουσι : ξηρανουσι 
+ψυχρολογία : ἀκαιρολογία 
+ψυχρός : ἀσθενής 
+ψυχικός : σαρκικός
+ψυχρολόγος : ὁ ψυχρὰ καὶ μηδενὸς ἄξια ἢ χρήσιμα λέγων 
+ψωμός : ἄρτος 
+ψωμιεῖ σε : θρέψει σε 
+ψώχοντες : λεπτύνοντες 
+ψωγῆσαι : ψέξαι 
+ψωγερούς : ἐπιψόγους 
+ψώγος : μέμψις λοιδορία ὕβρις μομφή ψέξις
+
+
+
+

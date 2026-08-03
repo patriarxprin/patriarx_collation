@@ -1,0 +1,12 @@
+# METADATA format: Dublin Core (dc:https://www.dublincore.org/specifications/dublin-core/dcmi-terms/elements11/)
+# dc:creator: Benvenuto, Carmelo Nicolò
+# dc:date: 2026-01-23
+# dc:source: Paris, Bibliothèque Nationale de France, grec 2664A
+# dc:coverage: ff. 77v-78v
+# dc:relation: Diktyon ID 52300
+# dc:description: collazionato in riproduzioni in autopsia; fascette decorative in inizio di stoicheion; titoli del tipo τέλος τοῦ ν, ἀρχή τοῦ ξ; lemma e interpetamentum disposti su due colonne affiancate; la prima lettera di ogni lemma è vergata con inchiostro più chiaro rispetto a quello del corpo del testo; N.B. il codice è mutilo sia al principio che alla fine, contiene porzioni di testo relativo ai soli stoicheia da delta a sigma
+
+
+#il codice, mutilo in fine, non contiene stoicheion psi
+
+

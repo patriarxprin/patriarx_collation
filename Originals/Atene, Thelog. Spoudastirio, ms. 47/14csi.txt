@@ -1,0 +1,37 @@
+# METADATA format: Dublin Core (dc:https://www.dublincore.org/specifications/dublin-core/dcmi-terms/elements11/)
+# dc:creator: Benvenuto, Carmelo Nicolò
+# dc:date: 2026-01-23
+# dc:source: Atene, Πανεπιστήμιο Θεολογική Σπουδαστήριο Mss. 47
+# dc:coverage: ff. 64r 
+# dc:relation: Diktyon ID 8635
+# dc:description: collazionato in autopsia e in riproduzioni digitali; rudimentali elementi decorativi in inizio di ciascuno stoicheion, tit. Ἀρχὴ τοῦ ξ; lettere capitali di ciascun lemma in inchiostro rosso; due colonne, con lemma e interpretamentum disposti su colonne parallele   
+
+ξαίνω : νήθω, σωρεύω
+ξανθὴ : πυρρειδὲς
+ξανθηΐζεσθαι : κοσμεῖσθαι τὰς τρίχας
+ξανθοῖσοι : ὀρνέοις 
+ξεινοί : οἱ ἀπὸ ξένης φίλοι 
+ξεναγός : ὁ τῶν ξένων ἡγεμῶν 
+ξεναγῶν : ξενοδοχῶν 
+ξενίαν : καταγώγιον, κατάλυμα 
+ξενίζειν : ξένη κεχρεῖσθαι φωνὴ ἣ θέσιν 
+ξένος : ξένους συλλέγων στρατιώτας 
+ξεστόν : ὁμαλισμένον 
+ξιφήρις : ξίφος ἔχων 
+ξιφηφόρους : ξηφήρεις 
+ξόανον : ἄγαλμα, εἴδωλον, ζώδιον, ἀνδριάς
+ξούθος : ξανθός
+ξύλυχον : ὑλώδη τόπον 
+ξυναίρεται : ξυνάπτεται
+ξυνάορον : γαμετήν
+ξυνοθόκος : ξενοδόχος
+ξυνήϊα : κοινὰ χρήματα 
+ξυνωρίς : συζυγία ἢ ἄρμα ἐκ δύο ἴππων συνεζευγμένον 
+ξύριδες : καμπάγια, ζαγάμδια ἢ ἄλλο ὑπόδημα 
+ξυστόν : κόντον 
+ξυροῦ ἀκμῆς : τοῦ ὀξυτάτου κατὰ λεπτότητα τῶν σιδήρων
+ξυσταρχεῖς : τοῦ γυμνασίου ἀρχῆς 
+ξυστίδα : λεπτὸν ὕφασμα περιβόλαιον 
+ξυστίς : περισκελὲς ἔνδυμα 
+ξυστόν : κόντον
+ξυστός : τόπος ἀνειμένος ἀθλητῶν 

@@ -1,0 +1,27 @@
+# METADATA format: Dublin Core (dc:https://www.dublincore.org/specifications/dublin-core/dcmi-terms/elements11/)
+# dc:creator: Benvenuto, Carmelo Nicolò
+# dc:date: 2025-08-08
+# dc:source: Zavorda, Μονή Νικάνορος 95
+# dc:coverage: ff. ***
+# dc:relation: Diktyon 72377 
+# dc:description: collazionato in riproduzioni digitali; 
+
+ξαίνων : τύπτων ἢ διαλύων 
+ξεναγεῖν : ἀγαγεῖν ξένους 
+ξανθόν : πυροειδός 
+ξεναγῶν : ἡγεμῶν ξένων 
+ξυνεστίζει : συνεστίζει 
+ξυνωρίς : ἡ δυὰς καὶ ἡ συζυγία 
+ξυλιζομένη : ξύλα συλλέγουσα
+ξυνεχῶς : συνεχῶς
+ξόανον : ἄγαλμα
+ξυναίρεαται : συνάπτεται
+ξυνόν : κοινόν 
+ξυνπονεῖ : ἀντιλαμβάνει 
+ξυναρμώσας : συνάψας 
+ξυνάορον : τὴν γαμετήν 
+ξυστίδας : κολόβια 
+ξυνωρίδας : συζυγίας 
+ξυνιέναι : νοῆσαι 
+ξυναιρεῖν : γαμετήν 
+ξῶ : σῶ

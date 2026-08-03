@@ -1,0 +1,53 @@
+# METADATA format: Dublin Core (dc:https://www.dublincore.org/specifications/dublin-core/dcmi-terms/elements11/)
+# dc:creator: Benvenuto, Carmelo Nicolò
+# dc:date: 2026-01-23
+# dc:source: Paris, Bibliothèque Nationale de France, Supplément grec 1195
+# dc:coverage: f. 54v
+# dc:relation: Diktyon ID 53873
+# dc:description: collazionato in riproduzioni digitali; tit. in rosso del tipo ἀρχὴ τοῦ ξ στοιχείου; lemma e interpetamentum disposti di seguito su una sola colonna di scrittura, con prima lettera di ogni lemma rubricata in rosso, e l'interpretazione in inchiostro nero
+
+ξάνθος : πυρρός 
+ξάνθη : πυρρὴ καὶ χολή 
+ξενίασαμεν : θαυμαστωθεῖσα ἐξ ἐμοῦ
+ξεναγαγῶν : ξένους συναγαγών
+ξεναγὼν : ξενοδόχος 
+ξενολόγος : ξένος 
+ξενία : φιλία 
+ξενοτροφεῖν : ξένους τρέφειν 
+ξεναιὸς : στρατιώτης 
+ξηρὸν : κατάξηρον 
+ξίφος : φάσγανον, ἄορ, σπάθη, μάχαιρα
+ξίφηρος : ξιφηφόρος
+ξοινὴ : κοινή
+ξοῦθος : χλωρός 
+ξοῦθος : εὐειδής
+ξοῦθος : εὐαγής
+ξοῦθος : καθαρός 
+ξοῦθος : εὔμορφος
+ξυλόγλυκον : ξυλοκέρατον 
+ξυλοχὸς : δρυμὸς σύνδενδρος τόπος 
+ξυμφωνία : συμφωνία 
+ξυμβαίνει : συμβαίνει συμφωνεῖ 
+ξυμπονῆσαι : ἀντιλαβέσθαι 
+ξυμφορά : συμφορὰ αἰτία 
+ξύμμαχος : σύμμαχος ἐπίκουρος βοηθός
+ξυνὸς : κοινός 
+ξυνίστωρ : συνίστωρ μάρτυς 
+ξυνουσία : συνουσία 
+ξυνελθόντες : συνελθόντες 
+ξυνῳδὰ : συνῳδά 
+ξύνθακος : σύνθακος σϋγκάθεδρος δοξιός 
+ξυνομαρτεῖ : συνακολουθεῖ 
+ξυνευτὴς : ὁ ἀνήρ 
+ξυνάωορος : γαμετή 
+ξυναλλαχθέντες : κοινωνήσαντες 
+ξυστὸν : ἀκόντιον δόρυ 
+ξυσμὸς : κνησμός 
+ξυστάρχης : πολεμάρχης 
+ξῶθεν : ἔξωθεν 
+ξωλῶν : ἔθνος βαρβάρων 
+  
+
+ 
+
+

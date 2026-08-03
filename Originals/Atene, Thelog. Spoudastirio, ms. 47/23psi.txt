@@ -1,0 +1,44 @@
+# METADATA format: Dublin Core (dc:https://www.dublincore.org/specifications/dublin-core/dcmi-terms/elements11/)
+# dc:creator: Benvenuto, Carmelo Nicolò
+# dc:date: 2026-01-23
+# dc:source: Atene, Πανεπιστήμιο Θεολογική Σπουδαστήριο Mss. 47
+# dc:coverage: ff. 96v-97
+# dc:relation: Diktyon ID 8635
+# dc:description: collazionato riproduzioni digitali; rudimentali elementi decorativi in inizio di ciascuno stoicheion, tit. Ἀρχὴ τοῦ ψ; lettere capitali del primo lemma in inchiostro rosso; testo in una sola colonna con lemma e interpretamentum di seguito senza soluzione di continuità
+
+#psi dipende dal testo di Zonara?; cfr. articoli La Barbera sul tema
+
+ψαλίοις : χαλινοῖς 
+ψάλτιγξ : κιθάρα
+ψάμαθος : παρὰ θάλασσαν ἄμμος, ἄμαθος γὰρ ἡ μεσόγειος
+ψαρόν : εἶδος χρωμάτων 
+ψαύει : ἅπτεται 
+ψάφαρον : ἀσθενὲς ἐλαφρὸν κακὶν εὔθραυστον 
+ψεδνόν : ἀρεόθριξ μαδαρός 
+ψελλός : ἀσήμως, ἀνάρθρως λαλῶν τραυλά 
+ψεστά : ἄλφιτα οἴνῳ καὶ ἐλαίῳ δεδευμένα 
+ψευδηγόρος : ψευδολόγος 
+ψευδομυθία : ψευδολογία 
+ψήγματα : μακρὰ κομμάτια, λέγεται δὲ καὶ μικρἀ 
+ψῆρας : ψαρούς 
+ψῆνες : μικραὶ μῦιαι ἢ τῶν αἰγήρων θύλακες
+ψῆφος : κρίσις ἀπόφασις διαλαλιά 
+ψηφοφορία : ἡ πολλῶν ψῆφος καὶ ἀποδοχή 
+ψίχει : καταμάσσει 
+ψιθυρίζει : ἡρέμα εἰς τὸ οὖς διαλέγεται 
+ψιλόεντα : αἰθαλώδη 
+ψολοκόρης : φαλακρός 
+ψιλόν : γυμνόν 
+ψιλός : καπνός 
+ψοφοδεές : φιλόστις ψόφους φοβούμενος 
+ψυκτήρ : σκεῦος ἔνθα διανίζουσι τὰ ποτήρια 
+ψύξις : πνοή 
+ψύξας : φυσήσας ἢ ἀμβλυνας 
+ψυρᾶται : ἀποθνήσκει
+ψυχαγωγεῖ : παραμυθεῖται 
+ψυχικός : σαρκικός, τὴν ψυχὴν ἑλκόμενος 
+ψευδολογία : ἀκαιρολογία, ἢ δυσωδία, πεδαράστως. ἀσθενής 
+ψῶσαι : θάλψαι 
+ψῶγος : γῆ ψαμμώδης 
+ψώχον(τ)ες : θρύπτοντες, λεπύνοντες 
+

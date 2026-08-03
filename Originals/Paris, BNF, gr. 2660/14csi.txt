@@ -1,0 +1,40 @@
+# METADATA format: Dublin Core (dc:https://www.dublincore.org/specifications/dublin-core/dcmi-terms/elements11/)
+# dc:creator: Benvenuto, Carmelo Nicolò
+# dc:date: 2026-01-23
+# dc:source: Paris, Bibliothèque Nationale de France, grec 2660
+# dc:coverage: ff. 40v-41
+# dc:relation: Diktyon ID 52295
+# dc:description: collazionato in riproduzioni digitali; tit. del tipo στοιχείον ξ; piccole fascette decorative; testo continuo su un'unica colonna con distinzione di lemmi e interpretamenta con segni costituiti da quattro puntini
+
+
+ξαίνω : νήθω, σωρεύω 
+ξανθή : πυροειδή
+ξανθηΐζεσθαι : κοσμίσθαι τὰς τρίχας
+ξάνθοισι : ὁρνέοις
+ξεῖνοι : οἱ ἐκ ξένης φίλοι
+ξεναγός : ὁ τῶν ξένων ἡγεμῶν 
+ξεναγῶν : ξενοδοχῶν 
+ξενίαν : καταγόγιον κατάλυμα
+ξενίζειν : ξένη κεχρεῖσθαι φωνῇ ἡθεσίν 
+ξένιος : ξένους συλλέγων στρατιῶτας 
+ξεστόν : ὁμαλισμένον 
+ξηφήρις : ξίφος ἔχων 
+ξιφηφόρους : ξιφηρεῖς 
+ξῶανον : ἄγαλμα, εἶδωλον ζωνδίανδρίας
+ξοῦθος : ξανθός 
+ξύλοχον : ὑλώδη τόπον
+ξυνέρεται : ξυνάπτεται 
+ξυνάορον : γαμετήν 
+ξυνοθόκος : ξενοδόχος 
+ξυνηΐα : κοινὰ χρήματα 
+ξυνωρίς : ζυγία, ἢ ἄρμα ἐκ δύο ἵππων συνεζευγμένων 
+ξυρίδες : καμπάγια, ζαγάμδια, ἢ ἄλλο ὑπόδημα 
+ξύρου ἀκμής : τοῦ ὁξυτάτου κατὰ λεπτότητα τῶν σιδήρων 
+ξυσταρχῆς : τοῦ γυμνασίου ἄρχης 
+ξυστίδα : λεπτὸν ὕφασμα περιβόλεον 
+ξύστις : περισκελὲς ἔνδυμα
+ξύστον : κόντον 
+ξύστος : τόπος ἀνημένος ἀθλητῶν 
+
+
+

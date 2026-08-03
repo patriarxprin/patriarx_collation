@@ -1,0 +1,27 @@
+# METADATA format: Dublin Core (dc:https://www.dublincore.org/specifications/dublin-core/dcmi-terms/elements11/)
+# dc:creator: Benvenuto, Carmelo Nicolò
+# dc:date: 2026-01-23
+# dc:source: Athos, Μονή Ιβήρων, 382 (Lambros 4502)
+# dc:coverage: ff. 947v-948
+# dc:relation: Diktyon ID 23979
+# dc:description: collazionato  in riproduzioni digitali; crocette decorative in inizio di ciascuno stoicheion, tit. Ἀρχὴ τοῦ ξ στοιχείου; lemma e interpretazione di seguito su un'unica colonna di scrittura  
+
+ψάλλους : χαλινούς
+ψακὰς και ψεκάς : λέγεται ῥανύς 
+ψυψάλιον : χαλινός
+ψάλλειν : ἄδειν ἄσματα 
+ψάλων : εἶδος χαλινοῦ 
+ψάλτηξ : κιθάρα
+ψαῦσαι : προσεγγύσαι 
+ψαφορεῖν : ἀσθενές 
+ψαβῶς : διὰ τὸ ψηκάν ἄρειν 
+ψαύει : ἄπτεσθαι, πλησιάζειν 
+ψευδήγορος : ψευδολόγος 
+ψελλίζειν : τραυλίζειν 
+ψέγει : μέμφεται, λοιδωρεῖ, διαβάλλει 
+ψυχωμαχῶ : ἢ ἡ ψυχή διαρύγνυται 
+ψιλόν : γυμφόν, ψιλήν, ψαχνόν 
+ψίξ : ψίχα 
+ψηφίζω : μετρῶ ψυχαγωγεῖ, παραμυθεῖ 
+ψήφος: κρίσις, ψόγος, ὕβρις 
+ψεύστης : διὰ τὸ ψοάν στάν ξένην

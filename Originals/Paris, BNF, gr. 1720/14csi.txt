@@ -1,0 +1,51 @@
+# METADATA format: Dublin Core (dc:https://www.dublincore.org/specifications/dublin-core/dcmi-terms/elements11/)
+# dc:creator: Benvenuto, Carmelo Nicolò
+# dc:date: 2026-01-23
+# dc:source: Paris, Bibliothèque nationale de France, Grec 1720
+# dc:coverage: ff. 187v
+# dc:relation: Diktyon ID 51345
+# dc:description: collazionato in riproduzioni digitali; il lessico si trova in conclusione del codice ai ff. 164-192v, mutilo in fine; tit. Ἀρχὴ τοῦ ξ στοιχείου; rudimentali elementi decorativi spesso zoomorfi accompagnano la rubrica in inizio di stoicheion; lettere incipitarie del primo lemma di ciascuno stoicheion in inchiostro rosso; disposizione del testo su un'unica colonna con lemma e interpretamentum disposti di seguito  
+
+ξαίνων : νήθω, σωρεύω 
+ξανθὴν : πυρροειδῆ
+ξανθήζεσθαι : κοσμεῖσθαι τὰς τρίχας 
+ξανθοίσιν : ορνέοις 
+ξενεῶν : κατάλυμα 
+ξενωσύνην : φιλίαν 
+ξένοι : οἱ ἀπὸ ξένης φίλοι 
+ξεναγῶν : ὁ τοὺς ξένους ἄγων καὶ ξενοδοχῶν 
+ξενίας : καταγώγιον κατάλυμα 
+ξίνον : φίλον 
+ξιφήρεις : ξίφη κατέχοντας 
+ξόανον : ἄγαλμα εἴδωλον 
+ξουθός : ξανθός 
+ξουθεῖ : ἀνθεῖ 
+ξύει : γράφει ως παρ᾽ομήρῳ γράψαι ξύσαι 
+ξυλιζομένη : ξύλα συλλέγουσα 
+ξύμμαχοι : σύμμαχοι 
+ξυμβαίοι : συμβαίει 
+ξυνωρίδα : ζυγήν 
+ξυνωρόν : κοινωνόν
+ξυνιέναι : συνιέναι, νοῆσαι 
+ξύμπτης : κοινῆ
+ξυνουσία : συνουσία
+ξυνεχῶς : συνεχῶς, διὰ παντὸς 
+ξυναρμώσας : συναρμώσας, συνάψας 
+ξυναίρεται : συνάπτεται 
+ξυνῶν : συνῶν 
+ξυστίδας : περιβόλαια 
+ξυνάορον : γαμετήν 
+ξυστάρχων : τοῦ γυμνασίου ἄρχων 
+ξυμπονῆσαι : συμπονῆσαι 
+ξυνηῖα : κοινὰ πράγματα 
+ξύνες : σύνες, ἄκουσον 
+ξυνθήματος : συνθήματος 
+ξυνοδὰ : συνοδά 
+ξύνθακος : συγκάθεδρος 
+ξυνοθόκος : ξενοδόχος 
+ξυστὸν : κοντόν 
+ξυστίδα : λεπτὸν ὕφασμα 
+ξυστὸς : τόπος ἀνήμενος ἀθλητῶν 
+ξυσμὸς : κνησμός 
+ξύστρα : ψαλίς 
+ξῶθεν : ἔξωθεν 
