@@ -1,0 +1,47 @@
+# METADATA format: Dublin Core (dc:https://www.dublincore.org/specifications/dublin-core/dcmi-terms/elements11/)
+# dc:creator: Benvenuto, Carmelo Nicolò
+# dc:date: 2026-01-23
+# dc:source: Athos, Μονή Διονυσίου, 355 (Lambros 3889)
+# dc:coverage: ff. 43r-43v 
+# dc:relation: Diktyon ID 20323
+# dc:description: collazionato  in riproduzioni digitali; non ci elementi decorativi in inizio di ciascuno stoicheion, tit. Ἀρχὴ τοῦ ξ; prima di ogni lemma è segnata in margine una crocetta; due colonne, con lemma e interpretamentum disposti su colonne parallele   
+
+ξαίνω : ξαίνειν
+ξανθίζεσθαι : ξανθίζεσθαι
+ξενοσύνην : ξενοσύνη
+ξεῖνοι : ξεῖνος
+ξεναγῶν : ξεναγεῖν
+ξεῖνον : ξεῖνος
+ξενίαν : ξενία
+ξενιάζουσαν : ξενιάζειν
+ξεστόν : ξεστός
+ξηράν : ξηρός
+ξιφήρεις : ξιφήρης
+ξόανον : ξόανον
+ξουθός : ξοῦθος
+ξουθά : ξοῦθος
+ξύει : ξύειν
+ξυλιζομένη : ξυλίζειν
+ξύμμαχοι : ξύμμαχος
+ξυνωρίδα : ξυνωρίς
+ξυνθήματος : ξυνθήμα
+ξυνήϊον : ξυνήϊον
+ξύνορον : ξύνορος
+ξυνιέναι : ξυνιέναι
+ξυναίρεται : ξυναίρεσθαι
+ξυνωρίς : ξυνωρίς
+ξυστάρχων : ξυστάρχης
+ξυνάορον : ξυνάορος
+ξυμπονῆσαι : ξυμπονῆσαι
+ξυνήϊα : ξυνήϊον
+ξύνες : ξύνες
+ξυνθήματος : ξυνθήμα
+ξύνοδα : ξύνοδος
+ξύνκαθος : ξύνκαθος
+ξυνοθόκος : ξυνοθόκος
+ξυστόν : ξυστός
+ξυστίδα : ξυστίς
+ξυσμός : ξυσμός
+ξυμβαίνει : ξυμβαίνειν
+ξύστρα : ξύστρα
+ξῶθεν : ξῶθεν

@@ -1,0 +1,39 @@
+# METADATA format: Dublin Core (dc:https://www.dublincore.org/specifications/dublin-core/dcmi-terms/elements11/)
+# dc:creator: Benvenuto, Carmelo Nicolò
+# dc:date: 2026-01-23
+# dc:source: Paris, Bibliothèque Nationale de France, grec 2660
+# dc:coverage: ff. 40v-41
+# dc:relation: Diktyon ID 52295
+# dc:description: collazionato in riproduzioni digitali; tit. del tipo στοιχείον ξ; piccole fascette decorative; testo continuo su un'unica colonna con distinzione di lemmi e interpretamenta con segni costituiti da quattro puntini
+
+
+ξαίνω : ξαίνειν
+ξανθή : ξανθός
+ξανθηΐζεσθαι : ξανθίζειν
+ξάνθοισι : ξανθός
+ξεῖνοι : ξεῖνος
+ξεναγός : ξεναγός
+ξεναγῶν : ξεναγεῖν
+ξενίαν : ξενία
+ξενίζειν : ξενίζειν
+ξένιος : ξένιος
+ξεστόν : ξεστός
+ξηφήρις : ξιφήρης
+ξιφηφόρους : ξιφηφόρος
+ξῶανον : ξόανον
+ξοῦθος : ξοῦθος
+ξύλοχον : ξύλοχος
+ξυνέρεται : ξυναιρεῖν
+ξυνάορον : ξυνάορος
+ξυνοθόκος : ξυνοθόκος
+ξυνηΐα : ξυνηΐα
+ξυνωρίς : ξυνωρίς
+ξυρίδες : ξυρίς
+ξύρου ἀκμής : ξυρός
+ξυσταρχῆς : ξυσταρχής
+ξυστίδα : ξυστίς
+ξύστις : ξύστις
+ξύστον : ξυστός
+ξύστος : ξυστός
+
+

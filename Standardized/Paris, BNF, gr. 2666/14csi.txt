@@ -1,0 +1,79 @@
+# METADATA format: Dublin Core (dc:https://www.dublincore.org/specifications/dublin-core/dcmi-terms/elements11/)
+# dc:creator: Benvenuto, Carmelo Nicolò
+# dc:date: 2026-01-23
+# dc:source: Paris, Bibliothèque Nationale de France, grec 2666
+# dc:coverage: ff. 77v-78v
+# dc:relation: Diktyon ID 52302
+# dc:description: collazionato in riproduzioni digitali; in principio di stoicheion il codice non mostra elementi ornamentali, né titoli veri e propri; in margine viene di volta in volta annotata, all'altezza del rispettivo lemma, la lettera ξ seguita dalla seconda lettera per agevolare consultazione del lessico seguendo alfabetizzazione; lemma e interpetamentum disposti di seguito in un'unica colonna di scrittura
+
+ξαίνω : ξαίνειν
+ξάνθειον : ξάνθειον
+ξάνιον : ξάνιον
+ξανήσει : ξανήσειν
+ξάνω : ξάνειν
+ξέμφορα : ξέμφορος
+ξεῖνοι : ξεῖνος
+ξεῖνιος : ξεῖνιος
+ξεῖνος : ξεῖνος
+ξεναγός : ξεναγός
+ξένισα : ξενίζειν
+ξενηλατήν : ξενηλατεῖν
+ξενίαν : ξενία
+ξεξένως : ξεξένως
+ξενολόγος : ξενολόγος
+ξενῶν : ξενών
+ξένιος : ξένιος
+ξενοσύνη : ξενοσύνη
+ξεναλόγος : ξεναλόγος
+ξέστης : ξέστης
+ξεστάς : ξεστός
+ξηραλοιφίας καὶ ξηρακοκήειν : ξηραλοιφεῖν
+ξηρός : ξηρός
+ξηρός : ξηρός
+ξής : ξής
+ξιφήρης : ξιφήρης
+ξινήϊον : ξινήϊον
+ξουθῶν : ξουθός
+ξύειν : ξύειν
+ξυέναι : ξυέναι
+ξυλόχος : ξυλόχος
+ξυλιζομένη : ξυλίζειν
+ξύλων ἐρεψίμων : ξύλον
+ξυλίφιον : ξυλίφιον
+ξυλοπέδη : ξυλοπέδης
+ξυμβαίνει : ξυμβαίνειν
+ξυμβαίη : ξυμβαίνειν
+ξύμμαχοι : ξύμμαχος
+ξυνάορον : ξυνάορος
+ξυναίρεται : ξυναιρεῖν
+ξύνιον : ξύνιον
+ξυνιόντες : ξυνιέναι
+ξυνηΐα : ξυνηΐα
+ξυνών : ξυνών
+ξυνοθόκος : ξυνοθόκος
+ξυνέρεται : ξυναιρεῖν
+ξύνευτος : ξύνευτος
+ξυνωρίς : ξυνωρίς
+ξυνωμοσία : ξυνωμοσία
+ξυνίασι : ξυνιέναι
+ξυνέοικε : ξυνέοικεν
+ξυνήσην : ξυνῆσαι
+ξυνήϊον : ξυνήϊον
+ξυνιέναι : ξυνιέναι
+ξυνωρῶν : ξυνωρός
+ξυνών : ξυνών
+ξυνθήματος : ξυνθήμα
+ξύνθακες : ξύνθακος
+ξύφορβος : ξύφορβος
+ξυροῦ ἀκμῆς : ξυρός
+ξυστίδα : ξυστίς
+ξύστις : ξύστις
+ξύστων : ξυστός
+ξυστών : ξυστός
+ξυστῷ : ξυστός
+ξύσματα : ξύσμα
+ξύσαντι : ξύσαι
+
+ 
+
+

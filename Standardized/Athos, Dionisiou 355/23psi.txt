@@ -1,0 +1,49 @@
+# METADATA format: Dublin Core (dc:https://www.dublincore.org/specifications/dublin-core/dcmi-terms/elements11/)
+# dc:creator: Benvenuto, Carmelo Nicolò
+# dc:date: 2026-01-23
+# dc:source: Athos, Μονή Διονυσίου, 355 (Lambros 3889)
+# dc:coverage: ff. 66r-66v 
+# dc:relation: Diktyon ID 20323
+# dc:description: collazionato  in riproduzioni digitali; non ci elementi decorativi in inizio di ciascuno stoicheion, tit. Ἀρχὴ τοῦ ξ; prima di ogni lemma è segnata in margine una crocetta; due colonne, con lemma e interpretamentum disposti su colonne parallele   
+
+ψακάς : ψακάς
+ψάλιον : ψάλιον
+ψάλτηξ : ψάλτιγξ
+ψάλλειον : ψάλλειον
+ψαρός : ψαρός
+ψαῦσαι : ψαῦσαι
+ψέγει : ψέγειν
+ψεδνός : ψεδνός
+ψελλός : ψελλός
+ψεστά : ψεστός
+ψευδηγόρους : ψευδηγόρος
+ψευδοεπεῖ : ψευδοεπεῖν
+ψευδάγγελος : ψευδάγγελος
+ψευσάμενοι : ψεύσασθαι
+ψευδῆ : ψευδής
+ψεῦδος : ψεῦδος
+ψευδομαθεῖ : ψευδομαθεῖν
+ψήγματα : ψήγμα
+ψῆφος : ψῆφος
+ψηφισαμένων : ψηφίσαι
+ψηφίδες : ψηφίς
+ψηφοφορία : ψηφοφορία
+ψιλόν : ψιλός
+ψιλοκόρης : ψιλοκόρης
+ψιλόν : ψιλός
+ψυττά : ψυττά
+ψόγον : ψόγος
+ψογερούς : ψογερός
+ψοφοδεής : ψοφοδεής
+ψόγος : ψόγος
+ψυχτήρ : ψυχτήρ
+ψύττα : ψύττα
+ψύξουσι : ψύξειν
+ψυχνολογία : ψυχνολογία
+ψυχουλκοῦμαι : ψυχουλκεῖσθαι
+ψυχαγωγεῖ : ψυχαγωγεῖν
+ψυχρός : ψυχρός
+ψυχικῶς : ψυχικός
+ψωκτόν : ψωκτός
+ψωμιεῖ : ψωμίζειν
+ψώχοντες : ψώχειν

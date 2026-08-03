@@ -1,34 +1,34 @@
 # METADATA format: Dublin Core (dc:https://www.dublincore.org/specifications/dublin-core/dcmi-terms/elements11/)
 # dc:creator: Benvenuto, Carmelo Nicolò
 # dc:date: 2026-01-23
-# dc:source: Oxford, Bodleian Library, Holkham gr. 112
-# dc:coverage: ff. 116-116v
-# dc:relation: Diktyon ID 48180
-# dc:description: collazionato in originale e in riproduzioni digitali; tit. Ἀρχὴ τοῦ ψ στοιχείου; lettere incipitarie di ogni lemma in inchiostro rosso; disposizione del testo su due colonne ma lemma e interpretamentum sono disposti sulla stessa colonna 
+# dc:source: Paris, Bibliothèque Nationale de France, Supplément grec 1146
+# dc:coverage: ff. 173r-173v
+# dc:relation: Diktyon ID 53803
+# dc:description: collazionato in riproduzioni digitali; tit. in rosso del tipo ἀρχὴ τοῦ ξ στοιχείου; lemma e interpetamentum disposti di seguito ma su tre distinte colonne di scrittura, con prima lettera di ogni lemma rubricata in rosso, e l'interpretazione in inchiostro nero
 
 ψακάς : ψακάς
-ψάλιον : ψάλιος
-ψάλτιξ : ψάλτιξ
+ψάλιον : ψάλιον
+ψάλπιγξ : ψάλπιγξ
 ψάλλειν : ψάλλειν
 ψαρός : ψαρός
 ψαῦσαι : ψαῦσαι
-ψαφαρόν : ψάφαρος
+ψαφαρόν : ψαφαρός
 ψέγει : ψέγειν
 ψεδνός : ψεδνός
 ψεδνή : ψεδνός
 ψεκάδων : ψεκάς
-ψεστά : ψεστός
 ψελλός : ψελλός
+ψεστά : ψεστός
 ψευδηγόρους : ψευδηγόρος
-ψευδοεπεῖ : ψευδοεπεῖν
+ψευδοεπεί : ψευδοεπείν
 ψευδάγγελος : ψευδάγγελος
 ψευσάμενοι : ψεύσασθαι
-ψευδή : ψευδής
-ψεύδος : ψεύδος
+ψευδῆ : ψευδής
+ψεῦδος : ψεῦδος
 ψευδομυθεῖ : ψευδομυθεῖν
-ψήγματα : ψῆγμα
+ψίγματα : ψίγμα
 ψῆφος : ψῆφος
-ψηφησαμένων : ψηφίσαι
+ψηφισαμένων : ψηφίσαι
 ψηφίδες : ψηφίς
 ψηφοφορία : ψηφοφορία
 ψίχειν : ψίχειν
@@ -36,25 +36,24 @@
 ψιλόν : ψιλός
 ψόγος : ψόγος
 ψογερούς : ψογερός
-ψογοδελής : ψογοδελής
+ψοφοδεής : ψοφοδεής
 ψόφος : ψόφος
 ψυκτήρ : ψυκτήρ
 ψύλλα : ψύλλα
 ψύξις : ψύξις
+ψύξις : ψύξις
 ψύξας : ψύξαι
-ψυλλοί : ψυλλός
-ψεύξουσιν : ψεύξειν
+ψύλλοι : ψύλλος
+ψύξουσι : ψύξειν
 ψυχρολογία : ψυχρολογία
-ψυχολκοῦμαι : ψυχολκεῖν
-ψυχαγωγή : ψυχαγωγή
+ψυχολκοῦμαι : ψυχολκεῖσθαι
+ψυχαγωγεῖ : ψυχαγωγεῖν
 ψυχρός : ψυχρός
 ψυχικός : ψυχικός
 ψυχρολόγος : ψυχρολόγος
 ψωμός : ψωμός
-ψωμεῖ σαι : ψωμίζειν σε
+ψωμιεῖ : ψωμίζειν 
 ψώχοντες : ψώχειν
-ψώγος : ψώγος
-ψωγήσα : ψωγῆσαι
+ψωγῆσαι : ψωγῆσαι
+ψῶγον : ψώγος
 ψωγερούς : ψωγερός
-
-

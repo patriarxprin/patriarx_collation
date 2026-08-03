@@ -1,0 +1,37 @@
+# METADATA format: Dublin Core (dc:https://www.dublincore.org/specifications/dublin-core/dcmi-terms/elements11/)
+# dc:creator: Benvenuto, Carmelo Nicolò
+# dc:date: 2026-01-23
+# dc:source: Atene, Πανεπιστήμιο Θεολογική Σπουδαστήριο Mss. 47
+# dc:coverage: ff. 64r 
+# dc:relation: Diktyon ID 8635
+# dc:description: collazionato in autopsia e in riproduzioni digitali; rudimentali elementi decorativi in inizio di ciascuno stoicheion, tit. Ἀρχὴ τοῦ ξ; lettere capitali di ciascun lemma in inchiostro rosso; due colonne, con lemma e interpretamentum disposti su colonne parallele   
+
+ξαίνω : ξαίνειν
+ξανθὴ : ξανθός
+ξανθηΐζεσθαι : ξανθηΐζεσθαι
+ξανθοῖσι : ξανθός
+ξεινοί : ξεῖνος
+ξεναγός : ξεναγός
+ξεναγῶν : ξεναγεῖν
+ξενίαν : ξενία
+ξενίζειν : ξενίζειν
+ξένος : ξένος
+ξεστόν : ξεστός
+ξιφήρις : ξιφήρης
+ξιφηφόρους : ξιφηφόρος
+ξόανον : ξόανον
+ξούθος : ξοῦθος
+ξύλυχον : ξύλιχος
+ξυναίρεται : ξυναίρεσθαι
+ξυνάορον : ξυνάορος
+ξυνοθόκος : ξυνοθόκος
+ξυνήϊα : ξυνήϊον
+ξυνωρίς : ξυνωρίς
+ξύριδες : ξύρις
+ξυστόν : ξυστός
+ξυροῦ ἀκμῆς : ξυρός
+ξυσταρχεῖς : ξυσταρχεῖν
+ξυστίδα : ξυστίς
+ξυστίς : ξυστίς
+ξυστόν : ξυστός
+ξυστός : ξυστός

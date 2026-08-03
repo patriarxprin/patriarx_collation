@@ -1,0 +1,43 @@
+# METADATA format: Dublin Core (dc:https://www.dublincore.org/specifications/dublin-core/dcmi-terms/elements11/)
+# dc:creator: Benvenuto, Carmelo Nicolò
+# dc:date: 2026-01-23
+# dc:source: Atene, Πανεπιστήμιο Θεολογική Σπουδαστήριο Mss. 47
+# dc:coverage: ff. 96v-97
+# dc:relation: Diktyon ID 8635
+# dc:description: collazionato riproduzioni digitali; rudimentali elementi decorativi in inizio di ciascuno stoicheion, tit. Ἀρχὴ τοῦ ψ; lettere capitali del primo lemma in inchiostro rosso; testo in una sola colonna con lemma e interpretamentum di seguito senza soluzione di continuità
+
+#psi dipende dal testo di Zonara?; cfr. articoli La Barbera sul tema
+
+ψαλίοις : ψάλιος
+ψάλπιγξ : ψάλπιγξ
+ψάμαθος : ψάμαθος
+ψαρόν : ψαρός
+ψαύει : ψαύειν
+ψάφαρον : ψάφαρος
+ψεδνόν : ψεδνός
+ψελλός : ψελλός
+ψεστά : ψεστός
+ψευδηγόρος : ψευδηγόρος
+ψευδομυθία : ψευδομυθία
+ψήγματα : ψήγμα
+ψῆρας : ψῆρας
+ψῆνες : ψήν
+ψῆφος : ψῆφος
+ψηφοφορία : ψηφοφορία
+ψίχει : ψίχειν
+ψιθυρίζει : ψιθυρίζειν
+ψιλόεντα : ψιλόεις
+ψολοκόρης : ψολοκόρης
+ψιλόν : ψιλός
+ψιλός : ψιλός
+ψοφοδεές : ψοφοδεής
+ψυκτήρ : ψυκτήρ
+ψύξις : ψύξις
+ψύξας : ψύξαι
+ψυρᾶται : ψυρᾶσθαι
+ψυχαγωγεῖ : ψυχαγωγεῖν
+ψυχικός : ψυχικός
+ψευδολογία : ψευδολογία
+ψῶσαι : ψῶσαι
+ψῶγος : ψῶγος
+ψώχοντες : ψώχειν

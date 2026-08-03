@@ -1,0 +1,42 @@
+# METADATA format: Dublin Core (dc:https://www.dublincore.org/specifications/dublin-core/dcmi-terms/elements11/)
+# dc:creator: Benvenuto, Carmelo Nicolò
+# dc:date: 2026-01-23
+# dc:source: Paris, Bibliothèque Nationale de France, grec 2660
+# dc:coverage: ff. 82r-83r
+# dc:relation: Diktyon ID 52295
+# dc:description: collazionato in riproduzioni digitali; tit. del tipo στοιχείον ξ; piccole fascette decorative; testo continuo su un'unica colonna con distinzione di lemmi e interpretamenta con segni costituiti da quattro puntini
+
+ψαλίοις : ψαλίος
+ψάλτιγξ : ψάλτιγξ
+ψαμάθος : ψάμαθος
+ψαρόν : ψαρός
+ψαῦει : ψαύειν
+ψαφαρὸν : ψαφαρός
+ψεδνός : ψεδνός
+ψελλός : ψελλός
+ψεστά : ψεστός
+ψευδηγόρος : ψευδηγόρος
+ψευδομυθία : ψευδομυθία
+ψήγματα : ψῆγμα
+ψῆρας : ψῆρ
+ψῆνες : ψήν
+ψῆφος : ψῆφος
+ψηφοφορία : ψηφοφορία
+ψίχει : ψίχειν
+ψιθυρίζει : ψιθυρίζειν
+ψολόεντα : ψολόεις
+ψολοκόρις : ψολοκόρις
+ψιλόν : ψιλός
+ψολός : ψολός
+ψοφοδοῆς : ψοφοδεής
+ψυκτήρ : ψυκτήρ
+ψύξας : ψύχειν
+ψυράται : ψυρᾶσθαι
+ψυχαγωγεῖ : ψυχαγωγεῖν
+ψυχικός : ψυχικός
+ψευδολογία : ψευδολογία
+ψῶσαι : ψῶσαι
+ψῶγος : ψῶγος
+ψῶχοντες : ψώχειν
+
+

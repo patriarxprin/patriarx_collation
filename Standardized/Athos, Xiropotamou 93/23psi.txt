@@ -1,0 +1,30 @@
+# METADATA format: Dublin Core (dc:https://www.dublincore.org/specifications/dublin-core/dcmi-terms/elements11/)
+# dc:creator: Benvenuto, Carmelo Nicolò
+# dc:date: 2026-01-23
+# dc:source: Athos, Μονή Ξηροποτάμου Mss. 093 (Lambros 2426)
+# dc:coverage: ff. 
+# dc:relation: Diktyon ID 30646
+# dc:description: collazionato  in riproduzioni digitali;
+
+ψάλλον : ψάλλειν
+ψακὰς καὶ ψεκάς : ψακάς καὶ ψεκάς
+ψάλιον : ψάλιος
+ψάλλειν : ψάλλειν
+ψάλων : ψάλων
+ψάλτηξ : ψάλτιγξ
+ψαῦσαι : ψαῦσαι
+ψαφορεῖν : ψαφορεῖν
+ψαφῶ : ψαφᾶν
+ψάμειν : ψαύειν
+ψευδηγόρος : ψευδηγόρος
+ψελλίζειν : ψελλίζειν
+ψέγει : ψέγειν
+ψυχομαχῶ : ψυχομαχεῖν
+ψιλόν : ψιλός
+ψιλήν : ψιλός
+ψίξ : ψίξ
+ψηφίζω : ψηφίζειν
+ψυχαγωγῆ : ψυχαγωγός
+ψήφος : ψῆφος
+ψόγος : ψόγος
+ψεύστης : ψεύστης

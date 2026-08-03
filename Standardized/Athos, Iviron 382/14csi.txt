@@ -1,0 +1,38 @@
+# METADATA format: Dublin Core (dc:https://www.dublincore.org/specifications/dublin-core/dcmi-terms/elements11/)
+# dc:creator: Benvenuto, Carmelo Nicolò
+# dc:date: 2026-01-23
+# dc:source: Athos, Μονή Ιβήρων, 382 (Lambros 4502)
+# dc:coverage: ff. 947v-948
+# dc:relation: Diktyon ID 23979
+# dc:description: collazionato  in riproduzioni digitali; crocette decorative in inizio di ciascuno stoicheion, tit. Ἀρχὴ τοῦ ξ στοιχείου; lemma e interpretazione di seguito su un'unica colonna di scrittura
+
+ξανθός : ξανθός
+ξάνθησιν : ξάνθησις
+ξανθίζεσθαι : ξανθίζεσθαι
+ξένω : ξένειν
+ξενοσύνη : ξενοσύνη
+ξεστόν : ξεστός
+ξεναγωγῆσαι : ξεναγωγῆσαι
+ξεναγῶν : ξεναγεῖν
+ξενηκούσθησαν : ξενηκουσθῆναι
+ξοῖον : ξοῖος
+ξόανον : ξόανον
+ξυνάορον : ξυνάορος
+ξύνες : ξύνες
+ξυμβατά : ξυμβατός
+ξυμβαλεῖν : ξυμβαλεῖν
+ξύει : ξύειν
+ξυλιζομένους : ξυλίζειν
+ξύειν καὶ ξέειν διαφέρει : ξύειν καὶ ξέειν διαφέρειν
+ξυνθήματος : ξυνθήμα
+ξυνεχῶς : ξυνεχής
+ξυνικά : ξυνικός
+ξυναρμώσας : ξυναρμῶσαι
+ξῦνιον : ξῦνιον
+ξύνορον : ξύνορος
+ξυνῶν : ξυνών
+ξυνουσία : ξυνουσία
+ξύνον : ξύνος
+ξυσμός : ξυσμός
+ξύστρα : ξύστρα
+ξυνωρίς : ξυνωρίς

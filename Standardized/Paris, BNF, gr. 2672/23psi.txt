@@ -1,0 +1,48 @@
+# METADATA format: Dublin Core (dc:https://www.dublincore.org/specifications/dublin-core/dcmi-terms/elements11/)
+# dc:creator: Benvenuto, Carmelo Nicolò
+# dc:date: 2026-01-23
+# dc:source: Paris, Bibliothèque Nationale de France, grec 2672
+# dc:coverage: ff. 143v-144
+# dc:relation: Diktyon ID 52308
+# dc:description: collazionato in riproduzioni digitali; fascette ornamentali in principio di stoicheion; tit. del tipo ἀρχὴ τοῦ ξ στοιχείου; in lemma e interpetamentum disposti di seguito in due colonne di scrittura, con prima lettera del lemma rubricata in rosso, e l'interpretazione in inchiostro nero
+
+
+ψακάς : ψακάς
+ψάλιον : ψάλιον
+ψάλπιγξ : ψάλπιγξ
+ψαῦσαι : ψαῦσαι
+ψαρός : ψαρός
+ψαφαρόν : ψαφαρός
+ψαλτήριον : ψαλτήριον
+ψέγει : ψέγειν
+ψεδνόν : ψεδνός
+ψεδνὴ δ᾽ ἐπενήνοθεν : ψεδνός
+ψευτά : ψευτός
+ψευδοποιεῖ : ψευδοποιεῖν
+ψεῦδος : ψεῦδος
+ψευδομυθεῖ : ψευδομυθεῖν
+ψεῦδος : ψεῦδος
+ψήγματα : ψῆγμα
+ψῆφος : ψῆφος
+ψηφίδες : ψηφίς
+ψηφοφορία : ψηφοφορία
+ψήγειν : ψήγειν
+ψιάδας : ψιάς
+ψιλόν : ψιλός
+ψογερούς : ψογερός
+ψόφος : ψόφος
+ψοφοδεής : ψοφοδεής
+ψυκτήν : ψυκτήρ
+ψύλλα : ψύλλα
+ψύξουσιν : ψύξειν
+ψύττα : ψύττα
+ψυχρολογία : ψυχρολογία
+ψυχούκομαι : ψυχούκομαι
+ψυχικός : ψυχικός
+ψυχαγωγεῖ : ψυχαγωγεῖν
+ψυχρός : ψυχρός
+ψυχρολόγος : ψυχρολόγος
+ψωκτόν : ψωκτός
+ψωμιεῖ : ψωμίζειν 
+ψωχόντες : ψώχειν
+ψώχοντες : ψώχειν

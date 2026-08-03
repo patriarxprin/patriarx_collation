@@ -1,0 +1,83 @@
+# METADATA format: Dublin Core (dc:https://www.dublincore.org/specifications/dublin-core/dcmi-terms/elements11/)
+# dc:creator: Benvenuto, Carmelo Nicolò
+# dc:date: 2026-01-23
+# dc:source: Paris, Bibliothèque Nationale de France, grec 2666
+# dc:coverage: ff. 106v-107
+# dc:relation: Diktyon ID 52302
+# dc:description: collazionato in riproduzioni digitali; in principio di stoicheion il codice non mostra elementi ornamentali, né titoli veri e propri; in margine viene di volta in volta annotata, all'altezza del rispettivo lemma, la lettera ψ seguita dalla seconda lettera per agevolare consultazione del lessico seguendo alfabetizzazione; lemma e interpetamentum disposti di seguito in un'unica colonna di scrittura
+
+
+αθλάων : ψαθλάος
+ψαθυρῶν : ψαθυρός
+ψαβαρῶν : ψαβαρός
+ψάζει : ψάζειν
+ψακάλων : ψάκαλος
+ψαιστά : ψαιστός
+ψακάς : ψακάς
+ψακάζει : ψακάζειν
+ψακαλῶν : ψάκαλος
+ψαλάσσων : ψαλάσσων
+ψαλίοις : ψαλίος
+ψαλίς : ψαλίς
+ψάλιον : ψάλιον
+ψάλπιγξ : ψάλπιγξ
+ψαμαθός : ψαμαθός
+ψατάλλην : ψατάλλης
+ψαύει : ψαύειν
+ψαφαρῶν : ψαφαρός
+ψεδρός : ψεδρός
+ψελλός : ψελλός
+ψελλίζει : ψελλίζειν
+ψευδάμαξας : ψευδάμαξας
+ψεφαρῶν : ψεφαρῶν
+ψήγματα : ψῆγμα
+ψηκέδων : ψηκέδων
+ψηκτῆρα : ψηκτήρ
+ψήνας : ψήν
+ψηνύξαι : ψηνύξαι
+ψήρας : ψήρα
+ψήρων : ψήρ
+ψήφην : ψῆφος
+ψῆφος : ψῆφος
+ψήχομαν : ψήχειν
+ψηχράν : ψηχρός
+ψία : ψία
+ψιάδες : ψιάς
+ψιέντα : ψιείς
+ψιζομένη : ψίζειν
+ψιλοκορής : ψιλοκορής
+ψιλοκόμη : ψιλοκόμης
+ψιμαρῶν : ψιμαρός
+ψινάδες : ψινάς
+ψινάζει : ψινάζειν
+ψινύθιον : ψινύθιον
+ψίσαι : ψίσαι
+ψιτταί : ψιτταί
+ψιττά : ψιττός
+ψόθος : ψόθος
+ψοίβης : ψοίβης
+ψοῖθος : ψοῖθος
+ψολθέν : ψολθεῖν
+ψολόεντα : ψολόεις
+ψολολκοπία : ψολολκοπία
+ψολός : ψολός
+ψούδια : ψούδιον
+ψολοκοπία : ψολοκοπία
+ψολός : ψολός
+ψούδια : ψούδιον
+ψυδρός : ψυδρός
+ψύξας : ψύξαι
+ψύττα : ψύττα
+ψυχικός : ψυχικός
+ψυχολόγος : ψυχολόγος
+ψωγός : ψωγός
+ψώζα : ψώζα
+ψωκτῶν : ψωκτός
+ψομόλεθρος : ψομόλεθρος
+ψῶς : ψῶς
+ψῶσαι : ψῶσαι
+ψώψοντες : ψώψειν
+ψώψωντες : ψώψειν
+ψωψιέσαι : ψωμίζειν σε
+ψαπηζή : ψαπηζής
+

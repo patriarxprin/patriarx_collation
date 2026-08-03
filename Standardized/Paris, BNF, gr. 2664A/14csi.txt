@@ -1,0 +1,79 @@
+# METADATA format: Dublin Core (dc:https://www.dublincore.org/specifications/dublin-core/dcmi-terms/elements11/)
+# dc:creator: Benvenuto, Carmelo Nicolò
+# dc:date: 2026-01-23
+# dc:source: Paris, Bibliothèque Nationale de France, grec 2664A
+# dc:coverage: ff. 77v-78v
+# dc:relation: Diktyon ID 52300
+# dc:description: collazionato in riproduzioni in autopsia; fascette decorative in inizio di stoicheion; titoli del tipo τέλος τοῦ ν, ἀρχή τοῦ ξ; lemma e interpetamentum disposti su due colonne affiancate; la prima lettera di ogni lemma è vergata con inchiostro più chiaro rispetto a quello del corpo del testo; N.B. il codice è mutilo sia al principio che alla fine, contiene porzioni di testo relativo ai soli stoicheia da delta a sigma
+
+
+ξαίνω : ξαίνειν
+ξανθὴν : ξανθός
+ξενωσύνην : ξενοσύνη
+ξαίνω : ξαίνειν
+ξείνοι : ξεῖνος
+ξεναγών : ξεναγεῖν
+ξείνον : ξεῖνος
+ξανθοῖσιν : ξανθός
+ξεναγῆσαι : ξεναγῆσαι
+ξενάλογος : ξενάλογος
+ξενίαν : ξενία
+ξενίζει : ξενίζειν
+ξενίζεται : ξενίζεσθαι
+ξενίζουσαν : ξενίζειν
+ξεστὸν : ξεστός
+ξέστοιο : ξεστός
+ξεναγωγήσας : ξεναγωγῆσαι
+ξενίζειν : ξενίζειν
+ξενάγει : ξενάγειν
+ξεναγὸς : ξεναγός
+ξηφηρεῖς : ξιφήρης
+ξηρὰν λοιφὴν : ξηρός
+ξόανον : ξόανον
+ξουθός : ξουθός
+ξουθάς : ξουθός
+ξύει : ξύειν
+ξυλιζομένη : ξυλίζειν
+ξυμβαίνει : ξυμβαίνειν
+ξύμμαχοι : ξύμμαχος
+ξυνωρίδα : ξυνωρίς
+ξὺν αὐτοῖς : ξύν
+ξυνθήματος : ξυνθήμα
+ξυνήϊον : ξυνήϊον
+ξΰνορον : ξύνορος
+ξυνιέναι : ξυνιέναι
+ξυνεχῶς : ξυνεχής
+ξυναρμώσας : ξυναρμόσαι
+ξυναίρεται : ξυναιρεῖν
+ξυνουσία : ξυνουσία
+ξυνῶν : ξυνών
+ξΰμβενε : ξυμβαίνειν
+ξυνένες : ξυνιέναι
+ξυνωρίς : ξυνωρίς
+ξυνίει : ξυνιέναι
+ξυνάορον : ξυνάορος
+ξυστίδας : ξυστίς
+ξυστάρχων : ξυστάρχης
+ξυμπονῆσαι : ξυμπονῆσαι
+ξυνήϊα : ξυνήϊα
+ξυνθήματος : ξυνθήμα
+ξυνωδά : ξυνωδός
+ξύνθακος : ξύνθακος
+ξυνοθόκος : ξυνοθόκος
+ξυστίδα : ξυστίς
+ξυστός : ξυστός
+ξυστίδας : ξυστίς
+ξυσμός : ξυσμός
+ξυμβαίνει : ξυμβαίνειν
+ξύλον ἄβον : ξύλον
+ξύστρα : ξύστρα
+ξυναρμώσας : ξυναρμόσαι
+ξυνωρίδας : ξυνωρίς
+ξυνολόγος : ξυνολόγος
+ξυνερόν : ξυνερός
+ξώθεν : ξώθεν
+  
+
+ 
+
+

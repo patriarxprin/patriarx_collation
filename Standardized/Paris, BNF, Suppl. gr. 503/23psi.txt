@@ -1,0 +1,54 @@
+# METADATA format: Dublin Core (dc:https://www.dublincore.org/specifications/dublin-core/dcmi-terms/elements11/)
+# dc:creator: Benvenuto, Carmelo Nicolò
+# dc:date: 2026-01-23
+# dc:source: Paris, Bibliothèque Nationale de France, Supplément grec 503
+# dc:coverage: f. 73
+# dc:relation: Diktyon ID 53247
+# dc:description: collazionato in riproduzioni digitali; elementi ornamentali in principio di stoicheion; tit. in rosso del tipo ἀρχὴ τοῦ ... στοιχείου; lemma e interpetamentum disposti di seguito in un'unica colonna di scrittura, con il lemma rubricato in rosso, e l'interpretazione in inchiostro nero
+
+
+ψάλλειν : ψάλλειν
+ψάλιον : ψάλιον
+ψάλπιγξ : ψάλπιγξ
+ψαρός : ψαρός
+ψαῦσαι : ψαῦσαι
+ψαφαρόν : ψαφαρός
+ψεκάς : ψεκάς
+ψέγει : ψέγειν
+ψεδνός : ψεδνός
+ψεδνή : ψεδνός
+ψεκάδων : ψεκάς
+ψελλός : ψελλός
+ψεστά : ψεστός
+ψευδηγόρους : ψευδηγόρος
+ψευδοεπεί : ψευδοεπείν
+ψίγματα : ψίγμα
+ψῆφος : ψῆφος
+ψηφισαμένων : ψηφίσαι
+ψηφίδες : ψηφίς
+ψηφοφορία : ψηφοφορία
+ψήχειν : ψήχειν
+ψιάδες : ψιάς
+ψιλόν : ψιλός
+ψόγος : ψόγος
+ψογερούς : ψογερός
+ψοφοδεής : ψοφοδεής
+ψόφος : ψόφος
+ψυκτήρ : ψυκτήρ
+ψύλλα : ψύλλα
+ψύξις : ψύξις
+ψύξας : ψύξαι
+ψύλλοι : ψύλλος
+ψύξουσι : ψύξειν
+ψυχρολογία : ψυχρολογία
+ψυχολκοῦμαι : ψυχολκεῖσθαι
+ψυχαγωγεῖ : ψυχαγωγεῖν
+ψυχρός : ψυχρός
+ψυχικός : ψυχικός
+ψυχρολόγος : ψυχρολόγος
+ψωμός : ψωμός
+ψωμιεῖ : ψωμίζειν 
+ψώχοντες : ψώχειν
+ψωγῆσαι : ψωγῆσαι
+ψωγερούς : ψωγερός
+ψώγος : ψώγος
